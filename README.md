@@ -1,6 +1,6 @@
 # One Month Rails 
 
-This is the pintresting sample application for 
-[*One Month Rails*](http://onemonthrails.com)
+This is totally the pintresting sample application for 
+[*Pete's Meat Site*](http://onemonthrails.com)
 
 By [Peter Reault](http://peterrenault.com)
